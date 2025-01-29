@@ -448,8 +448,8 @@
     background-color: var(--bg-red);
     color: var(--bg-white);
     border: 1px solid var(--bg-none);
-    font-size: 1.4rem;
-    padding: 12px 13px;
+    font-size: 1.2rem;
+    padding: 9px 10px;
     border-radius: 3rem;
     cursor: pointer;
   }
@@ -464,7 +464,7 @@
     color: var(--bg-red);
     padding: 6px 7px;
     font-size: 14px;
-    font-weight: 400;
+    /* font-weight: 400; */
     border-radius: 2rem;
   }
   
@@ -541,8 +541,8 @@
   .arrow-btn-green {
     background-color: var(--bg-white);
     color: var(--color-green);
-    font-size: 14px;
-    font-weight: 400;
+    /* font-size: 14px;
+    font-weight: 400; */
     border-radius: 2rem;
     padding: 0.5rem;
     margin-left: 15px;
