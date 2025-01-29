@@ -1,0 +1,313 @@
+/* ----------------------div 1--------------------- */
+
+.container-1 {
+
+    gap: 280px;
+    font-size: 4rem;
+}
+
+.navbar {
+    font-size: 2.4rem;
+}
+
+#first-head{
+    text-align: center;
+    margin: 0px 0px 8px;
+}
+#order-span{
+    padding: 5px 8px;
+    border-radius: 20px;
+    font-size: medium;
+    border-radius: 30px;
+}
+/* -------------------div 3-------------------- */
+
+.container-3 {
+
+    margin: 100px;
+}
+
+.text-div3 {
+
+    font-size: 4rem;
+}
+
+.saltn-peper {
+
+    font-size: 5rem;
+}
+
+.para-div3 {
+
+    font-size: 1.5rem;
+    margin-bottom: 4rem;
+}
+
+.div3-img {
+
+    margin-bottom: 3rem;
+}
+
+/* -------------------div 4-------------------- */
+
+.bg-whiteimag{
+
+    position: absolute;
+    top: 1350px;
+    right: 0;
+}
+ 
+.container-head-4 {
+
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+}
+
+.container-4 {
+
+    gap: 4rem;
+}
+
+.parent-4 {
+    margin: 0px 80px;
+    gap: 18rem;
+}
+
+
+.faisalabad {
+margin-top: 50px;
+    gap: 18rem;
+}
+
+.p-4 {
+    font-size: 5rem;
+}
+
+.p4 {
+    font-size: 1.6rem;
+}
+
+.islamabad {
+
+    font-size: 1.3rem;
+    letter-spacing: 0.6rem;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 150;
+}
+
+.islamabad-saltn-peper {
+
+    font-size: 3rem;
+}
+
+.islamabad-restaurant {
+
+    font-size: 3rem;
+    margin: 1rem 0rem;
+}
+
+.address {
+    font-size: 1.5rem;
+    word-spacing: 0.2rem;
+    line-height: 3rem;
+}
+
+
+.icon {
+width: 15px;
+    font-size: 1.5rem;
+}
+
+.div-4 {
+    margin: 4rem;
+}
+
+/* -------------------div 5-------------------- */
+
+.container-5 {
+
+    margin-top: 10px;
+}
+
+.bg-img-5 {
+    position: absolute;
+    margin-top: 1rem;
+}
+
+.parent-5 {
+
+    font-size: 3rem;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+}
+
+.sargodha {
+
+    font-size: 1.4rem;
+    letter-spacing: 0.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para-5 {
+
+    font-size: 2.5rem;
+}
+
+.adress-5 {
+
+    font-size: 1.6rem;
+    font-weight: 100;
+    margin-bottom: 2rem;
+}
+
+.child-text-5 {
+
+    line-height: 40px;
+}
+
+.Express {
+
+    gap: 3rem;
+    line-height: 0.5rem;
+}
+
+.Express-2 {
+
+    line-height: 2.5rem;
+
+}
+
+.Directions {
+
+    margin-top: 4rem;
+}
+
+
+/* -------------------div 6-------------------- */
+
+.container-6 {
+
+    padding: 2rem 0rem;
+}
+
+.line-hei {
+
+    line-height: 2.5rem;
+}
+
+.para-6 {
+
+    margin-bottom: 3rem;
+}
+
+.green-btn {
+
+    margin-top: 6rem;
+}
+
+.img-div-5 {
+
+    margin-bottom: 4rem;
+}
+
+/* -------------------div 7-------------------- */
+
+.child-7 {
+    border: 1px solid #ffffff;
+    border-radius: 3px;
+    width: 400px;
+    height: 250px;
+    line-height: 3rem;
+}
+
+.img-7 {
+    margin-top: 20px;
+}
+
+.small-7 {
+    letter-spacing: 6px;
+}
+
+.grand-child-7 {
+
+    letter-spacing: 0.5px;
+}
+/* Social Feed */
+
+.social-feed {
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.parent-7-div-5 {
+
+    margin-top: 50px;
+}
+
+.img-7-div-6 {
+    margin-bottom: 40px;
+}
+ 
+/* -------------------div 8-------------------- */
+
+.container-8 {
+    margin: 0rem 10rem;
+    gap: 3rem;
+}
+
+.parent-8 {
+
+    margin: 8rem 0rem;
+}
+.width-6{
+    width: 300px;
+}
+
+.width-8 {
+    width: 350px;
+}
+
+.width-8-div-3 {
+
+    width: 250px;
+}
+
+.para-8 {
+    line-height: 2rem;
+    font-size: 1.5rem;
+}
+
+.img-8 {
+
+    position: absolute;
+    left: 4rem;
+    top: 7210px;
+}
+
+.head-8 {
+    font-size: 1.6rem;
+}
+
+.site-link {
+    font-size: 1.2rem;
+}
+
+.contact {
+    width: 25%;
+}
+
+.head-office {
+    font-size: 1.6rem;
+}
+
+/* -------------------div 9-------------------- */
+
+.children-9 {
+
+    margin: 10px;
+ 
+}
+.parent-9 {
+
+    gap: 800px;
+    font-size: 2.2rem;
+}
